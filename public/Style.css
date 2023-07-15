@@ -149,7 +149,7 @@ footer li:hover {
   -o-transition: 0.3s ease;
   border: solid 1px rgba(255, 255, 255, 0.151);
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .card {
     width: 350px;
   }
