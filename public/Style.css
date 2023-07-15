@@ -149,6 +149,11 @@ footer li:hover {
   -o-transition: 0.3s ease;
   border: solid 1px rgba(255, 255, 255, 0.151);
 }
+@media (max-width: 500px) {
+  .card {
+    width: 350px;
+  }
+}
 .card p {
   color: rgb(165, 162, 162);
 }
