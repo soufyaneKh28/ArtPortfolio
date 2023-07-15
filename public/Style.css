@@ -153,6 +153,19 @@ footer li:hover {
   .card {
     width: 350px;
   }
+  .AboutText {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .AboutText span {
+    color: orange;
+    margin-bottom: 5px;
+    font-size: 39px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+  }
 }
 .card p {
   color: rgb(165, 162, 162);
